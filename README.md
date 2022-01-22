@@ -13,4 +13,4 @@ This patch is based on instructions provided by [PCGamingWiki](https://www.pcgam
 5. Launch the patched setup, select 1920x1080 in the list
 6. Close the setup, and launch the patched Barnyard.exe
 
-Game should launch in 1080p 16x9 widescreen.
+Game should launch in 1080p 16:9 widescreen.
